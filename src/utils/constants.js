@@ -1,1 +1,1 @@
-export const API_BASE_URL = 'vision-eyecare.infinityfreeapp.com//eyecare-vision/api';
+export const API_BASE_URL = 'http://vision-eyecare.infinityfreeapp.com/eyecare-vision/api';
